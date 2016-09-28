@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kadai001</string>
+    <string name="midasi">むかしばなしで、かけっこの途中で寝てしまったのはどの動物？</string>
+    <string name="usagi">うさぎ</string>
+    <string name="kame">かめ</string>
+    <string name="kaba">かば</string>
+    <string name="setumei">クリックボタンを長押しすると、答えのページに飛びます</string>
+    <string name="usersOption">選択回答</string>
+    <string name="seikaiMsg">大正解！！</string>
+    <string name="ngMsg">不正解です！！</string>
+    <string name="back">戻る</string>
+    <string name="answermessage">答えは「うさぎ」です！</string>
+</resources>
